@@ -1,0 +1,12 @@
+.listItem {
+  color: #1e293b;
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  margin: 20px;
+  font-weight: 600;
+}
+
+li p {
+  margin: 10px;
+}
